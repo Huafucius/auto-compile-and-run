@@ -1,6 +1,4 @@
-fuck;
-u;
-shit;#include <iostream>
+#include <iostream>
 #include <filesystem>
 #include <cstdlib>
 #include <string>
